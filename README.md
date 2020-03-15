@@ -1,2 +1,3 @@
-# ocr
-handwriting recognition
+Working notebook: Transcribr.ipynb
+
+Quantization/TorchScript serialization: Quantization.ipynb
